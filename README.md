@@ -4,6 +4,10 @@
 
 - v5.x
 
+## target
+- react
+- typescript
+
 ## name
 
 ## devtool
