@@ -1,12 +1,13 @@
 # Webpack 기본 설정값 정의
 
-## version
+version
 
 - v5.x
 
-## target
+target
 - react
 - typescript
+
 
 ## name
 
